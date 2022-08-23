@@ -1,0 +1,40 @@
+POST https://amaro-case2.herokuapp.com/users/signupProducts
+Content-Type: application/json
+
+{
+	"name": "camisa Internacional",
+	"tags":["camisa de futebol", "verão", "camiseta"]
+}
+
+###
+GET http://localhost:3003/users/getProductsByTags
+Content-Type: application/json
+
+
+{
+
+	 "tags": "camisa de futebol"
+}
+###
+GET http://localhost:3003/users/getProductsByName
+Content-Type: application/json
+
+
+{
+	
+	"name": "camisa Internacional"
+
+}
+
+###
+GET http://localhost:3003/users/getProductsById
+Content-Type: application/json
+
+
+{
+
+	"id":"016a021b-373f-4ff2-a83c-68ebc9df8c81"
+	
+}
+
+

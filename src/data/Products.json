@@ -1,0 +1,129 @@
+{
+  "products": [
+    {
+      
+      "name": "VESTIDO TRICOT CHEVRON",
+      "tags": ["balada", "neutro", "delicado", "festa"]
+    },
+    {
+     
+      "name": "VESTIDO MOLETOM COM CAPUZ MESCLA",
+      "tags": ["casual", "metal", "metal"]
+    },
+    {
+      
+      "name": "VESTIDO CURTO MANGA LONGA LUREX",
+      "tags": ["colorido", "metal", "delicado", "estampas", "passeio"]
+    },
+    {
+      
+      "name": "VESTIDO FEMININO CANELADO",
+      "tags": ["workwear", "viagem", "descolado"]
+    },
+    {
+      
+      "name": "VESTIDO REGATA FEMININO COM GOLA",
+      "tags": ["moderno", "inverno", "liso", "basics"]
+    },
+    {
+     
+      "name": "VESTIDO PLISSADO ACINTURADO",
+      "tags": ["casual", "viagem", "delicado"]
+    },
+    {
+      
+      "name": "VESTIDO SLIPDRESS CETIM",
+      "tags": ["balada", "metal", "boho", "descolado", "passeio"]
+    },
+    {
+      
+      "name": "VESTIDO CURTO PONTO ROMA MANGA",
+      "tags": ["casual", "metal", "delicado", "descolado", "elastano", "estampas"]
+    },
+    {
+      
+      "name": "VESTIDO MOLETOM COM CAPUZ",
+      "tags": ["inverno", "liso", "casual", "descolado"]
+    },
+    {
+     
+      "name": "VESTIDO LONGO CREPE MANGA COMPRIDA",
+      "tags": ["casual", "metal", "delicado", "descolado"]
+    },
+    {
+     
+      "name": "VESTIDO MALHA COM FENDA",
+      "tags": ["balada", "metal", "estampas", "moderno"]
+    },
+    {
+      
+      "name": "VESTIDO CURTO VELUDO RECORTE GOLA",
+      "tags": ["colorido", "viagem", "delicado", "descolado", "inverno"]
+    },
+    {
+      
+      "name": "VESTIDO MANGA COMPRIDA COSTAS",
+      "tags": ["inverno", "estampas", "delicado", "descolado", "casual", "passeio", "basics"]
+    },
+    {
+      
+      "name": "VESTIDO CURTO VELUDO CRISTAL",
+      "tags": ["casual", "viagem", "boho", "neutro", "festa"]
+    },
+    {
+      
+      "name": "VESTIDO BABADOS KNIT",
+      "tags": ["moderno", "metal", "descolado", "elastano", "festa", "colorido"]
+    },
+    {
+     
+      "name": "VESTIDO CUT OUT TRICOT",
+      "tags": ["casual", "colorido", "delicado", "descolado", "viagem", "inverno"]
+    },
+    {
+      
+      "name": "VESTIDO BABADOS HORIZONTAIS",
+      "tags": ["moderno", "boho", "festa", "descolado", "colorido"]
+    },
+    {
+     
+      "name": "VESTIDO BABADO TURTLENECK",
+      "tags": ["casual", "metal", "delicado", "neutro", "basics", "inverno", "viagem"]
+    },
+    {
+      
+      "name": "VESTIDO MIDI VELUDO DECOTADO",
+      "tags": ["couro", "veludo", "passeio", "viagem"]
+    },
+    {
+      
+      "name": "VESTIDO LONGO ESTAMPADO",
+      "tags": ["couro", "estampado", "passeio", "viagem"]
+    },
+    {
+     
+      "name": "VESTIDO CURTO RENDA VISCOSE",
+      "tags": ["neutro", "workwear", "moderno", "descolado", "liso", "elastano"]
+    },
+    {
+      
+      "name": "VESTIDO LONGO BABADO",
+      "tags": ["casual", "liso", "passeio", "colorido", "boho"]
+    },
+    {
+      
+      "name": "VESTIDO COTTON DOUBLE",
+      "tags": ["balada", "liso", "moderno", "descolado"]
+    },
+    {
+      
+      "name": "VESTIDO CAMISETA FANCY",
+      "tags": ["casual", "liso"]
+    },
+    {
+      
+      "name": "VESTIDO WRAP FLEUR",
+      "tags": ["neutro", "liso", "basics", "viagem"]
+    }
+  ]
+}
